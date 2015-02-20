@@ -1,0 +1,2 @@
+/home/javi/Android/Dev/Examples/Alljoyn/signalclient/app/build/intermediates/classes/debug
+/home/javi/Android/Dev/Examples/Alljoyn/signalclient/app/build/intermediates/pre-dexed/debug/alljoyn-9d666aee8a627f516656bdc22107e5f80a414435.jar

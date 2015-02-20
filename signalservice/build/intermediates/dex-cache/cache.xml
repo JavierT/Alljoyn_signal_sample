@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/javi/Android/Dev/Examples/Alljoyn/signalservice/app/libs/alljoyn.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="964cf6ff631f5fba5f6615a7c901ac2577db44e4">
+        <dex dex="/home/javi/Android/Dev/Examples/Alljoyn/signalservice/app/build/intermediates/pre-dexed/debug/alljoyn-d9878cbd7bfbd65ba6b12ad23b827d1042701592.jar" />
+    </item>
+
+</items>
