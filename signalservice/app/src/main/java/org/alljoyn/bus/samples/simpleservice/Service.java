@@ -348,7 +348,7 @@ public class Service extends Activity {
                     myInterface.playerPosition(12,1,1);
                 }
                 catch (BusException ex) {
-                    logStatus(String.format("SignalEmitter.fuuuck(%s)", "- "+ex.toString()), status);
+                    logStatus(String.format("SignalEmitter.signal emitter failed(%s)", "- "+ex.toString()), status);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }

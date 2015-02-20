@@ -364,7 +364,7 @@ public class Client extends Activity {
 
         @BusSignalHandler(iface="org.alljoyn.bus.samples.simple.SimpleInterface", signal="playerPosition")
         public void playerPosition(int x, int y, int z) {
-            sendUiMessage(MESSAGE_POST_TOAST, "HE CAPTURADO LA PUTA SENAAAAL");
+            sendUiMessage(MESSAGE_POST_TOAST, "Signal captured");
         }
 
         /* Helper function to send a message to the UI thread. */
